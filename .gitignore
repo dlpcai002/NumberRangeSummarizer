@@ -1,0 +1,12 @@
+# Local dependencies
+lib/
+
+# IDE & workspace files
+.vscode/
+.idea/
+*.iml
+
+# Build output
+bin/
+out/
+*.class
